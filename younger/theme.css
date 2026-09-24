@@ -1,0 +1,9 @@
+/* Concept B · Rebel. Same ceiling palette, slate blue leads: white page, blue-grey cards, vermilion accent. */
+:root{
+  --c-page:#ffffff; --c-header:#ffffff; --c-card:#e8eef2; --c-hair:#e3e7ea;
+  --c-text:#211816; --c-text-2:#4a4f53; --c-head:#24323b; --c-nav:#24323b; --c-nav-hover:#c4482b; --c-meta:#8a9aa5;
+  --c-link:#5a7d94; --c-accent:#c4482b; --c-dark:#24323b; --c-foot:#b9c6ce; --c-foot-hair:#3a4a55;
+  --c-mark:#7a97ab; --c-mark-2:#c4482b;
+}
+body.younger .hero{background-position:center 25%}
+body.younger h2.c{letter-spacing:.06em;text-transform:uppercase;font-size:26px}

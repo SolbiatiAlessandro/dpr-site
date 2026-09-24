@@ -1,0 +1,7 @@
+/* Concept A · Classic. Palette from the painted ceiling: cream panels, deep red beams, vermilion, slate blue, gold. */
+:root{
+  --c-page:#fbf8f2; --c-header:#fbf8f2; --c-card:#f1e9da; --c-hair:#e6dac3;
+  --c-text:#211816; --c-text-2:#4a3d38; --c-head:#5e1f17; --c-nav:#5e1f17; --c-nav-hover:#c4482b; --c-meta:#9a8b7c;
+  --c-link:#5a7d94; --c-accent:#c4482b; --c-dark:#2b1a16; --c-foot:#c9bba9; --c-foot-hair:#4a352e;
+  --c-mark:#c4482b; --c-mark-2:#7a97ab;
+}
