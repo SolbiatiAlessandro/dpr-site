@@ -14,7 +14,7 @@ p{margin:0 0 20px}
 .container.narrow{max-width:840px}
 .lede{font-size:18px;color:var(--c-text-2);max-width:760px}
 .lede.c{margin-left:auto;margin-right:auto}
-.orn{text-align:center;margin:6px 0 40px}.orn svg{width:26px;height:26px;display:inline-block}
+.orn{width:48px;height:1px;background:var(--c-accent);margin:10px auto 40px}
 .meta,.src{font-size:13px;font-weight:700;text-transform:uppercase;color:var(--c-meta);letter-spacing:.3px}
 .src{font-weight:400;text-transform:none}
 .more{white-space:nowrap}
@@ -22,7 +22,6 @@ p{margin:0 0 20px}
 /* header */
 #header{background:var(--c-header)}
 .logo{display:flex;flex-direction:column;align-items:center;padding:22px 0 14px;color:var(--c-head)}
-.logo .mark{width:44px;height:44px;margin-bottom:8px}
 .wordmark{font:600 20px/1 "Source Sans 3",Arial,sans-serif;letter-spacing:.32em;text-transform:uppercase;color:var(--c-head);padding-left:.32em}
 .navwrap{border-top:1px solid var(--c-hair);background:var(--c-header)}
 #nav{list-style:none;margin:0;padding:0;display:flex;justify-content:center;flex-wrap:wrap}
