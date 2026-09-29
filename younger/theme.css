@@ -7,3 +7,10 @@
 }
 body.younger .hero{background-position:center 25%}
 body.younger h2.c{letter-spacing:.06em;text-transform:uppercase;font-size:26px}
+/* hero quote sits on the photo's black background, never over the face */
+body.younger .hero .herotext{display:flex;flex-direction:column;align-items:flex-end;text-align:right}
+body.younger .hero .herotext blockquote{max-width:520px}
+@media (max-width:900px){
+  body.younger .hero{background-size:100% auto;background-repeat:no-repeat;background-position:center top!important;background-color:#000;min-height:0;padding-top:56.25vw}
+  body.younger .hero .herotext{align-items:flex-start;text-align:left;padding-top:24px;padding-bottom:40px}
+}
